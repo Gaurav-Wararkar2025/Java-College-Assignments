@@ -1,3 +1,13 @@
+/*
+#Classes and Objects in Java:
+
+7.Create an abstract class Shape with an abstract method calculate area() and a method display_info().Create concrete 
+subclasses concrete like Circle and Rectangle that must implement their own specific logic for calculate_area(). Try to 
+instantiate an object of the Shape class directly and observe the compilation error. Use the subclass objects to call both 
+abstract and concrete methods.
+
+*/
+
 abstract class Shape {
 
     abstract double calculate_area();
