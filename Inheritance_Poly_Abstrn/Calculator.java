@@ -1,14 +1,14 @@
 /*
- * #Classes and Objects in Java:
- * 
- * 9. In a Calculator class, create multiple methods named add() with different
- * parameter lists (e.g., one taking two integers, another taking three
- * integers, and a third taking two doubles).
- * 
- * Call the add() method with various arguments in your main program,
- * demonstrating that the correct method is selected at compile time based on
- * the arguments provided.
- * 
+* #Inheritance,Polymorphism and Abstraction in Java:
+
+9. In a Calculator class, create multiple methods named add() with different
+parameter lists (e.g., one taking two integers, another taking three
+integers, and a third taking two doubles).
+
+Call the add() method with various arguments in your main program,
+demonstrating that the correct method is selected at compile time based on
+the arguments provided.
+
  */
 
 class Calculator {
